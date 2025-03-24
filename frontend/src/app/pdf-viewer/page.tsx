@@ -107,11 +107,6 @@ export default function PdfViewer() {
       <div className="w-1/2 flex flex-col space-y-4">
      
         <div className="flex-grow bg-gradient-to-b from-purple-100 via-pink-200 to-orange-100 shadow-lg rounded-lg p-4 h-[60vh]">
-        <button
-          onClick={() => router.back()}
-          className="px-4 py-2 bg-indigo-500 text-white rounded-lg hover:bg-indigo-600">
-          Home
-        </button>
           {greetingVisible ? (
             <div className="flex flex-col justify-center items-center h-full">
               <h1 className="md:text-xl sm:text-lg text-sm font-bold text-indigo-600 mb-4">Hello! How can I assist you with this paper?</h1>

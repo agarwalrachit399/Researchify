@@ -92,6 +92,7 @@ export default function Home() {
   };
 
   const viewPaper = async (id: string, url:string) => {
+    console.log(url);
     const apiURL = process.env.NEXT_PUBLIC_NGROK_URL;
     setIndexing(true);
     try {
