@@ -2,6 +2,8 @@
 
 Researchify is LLM Powered Web Application to aid scientific research and discovery.
 
+[Demo Link]("https://www.loom.com/share/480cd7dea4dd40d5816c37a4a28cfc72?sid=1c92ae2d-6273-4602-9b8a-49f4cb9b317e")
+
 ## Table of Contents
 
 1. [Architectural Overview](#architectural-overview)
@@ -16,7 +18,7 @@ Researchify is LLM Powered Web Application to aid scientific research and discov
 
 
 ## Features
-- 🔍 Search in Natural Language or use existing description or abstracts
+- 🔍 Search in Natural Language or use existing descriptions or abstracts
 - 🔍 Search Similar Papers based on a seed paper
 - 👀 View the paper in pdf format within the browser
 - 📝 Ask any questions about the research paper
