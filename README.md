@@ -2,7 +2,7 @@
 
 Researchify is LLM Powered Web Application to aid scientific research and discovery.
 
-[Demo Link]("https://www.loom.com/share/480cd7dea4dd40d5816c37a4a28cfc72?sid=1c92ae2d-6273-4602-9b8a-49f4cb9b317e")
+**[Demo Link](https://www.loom.com/share/480cd7dea4dd40d5816c37a4a28cfc72?sid=1c92ae2d-6273-4602-9b8a-49f4cb9b317e)**
 
 ## Table of Contents
 
